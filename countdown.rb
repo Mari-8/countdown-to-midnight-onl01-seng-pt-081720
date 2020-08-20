@@ -6,7 +6,7 @@ def countdown(int)
    int -= 1 
  end
  puts "HAPPY NEW YEAR!"
-
+ return "HAPPY NEW YEAR!"
 end
 
 
@@ -17,4 +17,5 @@ def countdown_with_sleep(int)
     int -= 1 
   end
   puts "HAPPY NEW YEAR!"
+  return "HAPPY NEW YEAR!"
 end
